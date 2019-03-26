@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService_PPE", "WindowsService_PPE\WindowsService_PPE.csproj", "{DE6B5888-1EBF-4773-985F-198BC5567EEC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup_PPE", "Setup_PPE\Setup_PPE.vdproj", "{5854D1A0-9628-455F-89D6-6081373DA9E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE6B5888-1EBF-4773-985F-198BC5567EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE6B5888-1EBF-4773-985F-198BC5567EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE6B5888-1EBF-4773-985F-198BC5567EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE6B5888-1EBF-4773-985F-198BC5567EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5854D1A0-9628-455F-89D6-6081373DA9E3}.Debug|Any CPU.ActiveCfg = Debug
+		{5854D1A0-9628-455F-89D6-6081373DA9E3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AC69CD6-FD80-4B76-8870-BD07DBB51BE3}
+	EndGlobalSection
+EndGlobal
